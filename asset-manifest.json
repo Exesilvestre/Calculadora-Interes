@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calucladora-interes/static/css/main.a5b0e245.css",
+    "main.js": "/Calucladora-interes/static/js/main.e52147c4.js",
+    "static/js/787.6b282767.chunk.js": "/Calucladora-interes/static/js/787.6b282767.chunk.js",
+    "index.html": "/Calucladora-interes/index.html",
+    "main.a5b0e245.css.map": "/Calucladora-interes/static/css/main.a5b0e245.css.map",
+    "main.e52147c4.js.map": "/Calucladora-interes/static/js/main.e52147c4.js.map",
+    "787.6b282767.chunk.js.map": "/Calucladora-interes/static/js/787.6b282767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b0e245.css",
+    "static/js/main.e52147c4.js"
+  ]
+}
